@@ -1,0 +1,178 @@
+# Blender 4.2.3 LTS MTL File: 'scene.blend'
+# www.blender.org
+
+newmtl Apa
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd water1.jpg
+
+newmtl Material.003
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Old_lantern_UV_Diffuse.png
+map_Ks Old_lantern_UV_SPecular.png
+map_Bump -bm 1.000000 Old_lantern_UV_Normal.png
+
+newmtl Material.006
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Old_lantern_UV_Diffuse.png
+map_Bump -bm 1.000000 Old_lantern_UV_Normal.png
+
+newmtl MetalBase
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.057805 0.057805 0.057805
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Pamant
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd rock_face_03_diff_4k.jpg
+map_Ns rock_face_03_rough_4k.exr
+map_d rock_face_03_disp_4k.exr
+map_Bump -bm 0.460000 rock_face_03_nor_gl_4k.png
+
+newmtl Scene_-_Root
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Scene_-_Root_baseColor.png
+map_Bump -bm 1.000000 Scene_-_Root_normal.png
+
+newmtl TeakWood
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.407240 0.250158 0.086501
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl bark_1_mat
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd -s 2 2 1 bark1 color.png
+map_Ns -s 2 2 1 bark 1 roughness.png
+map_Bump -s 2 2 1 bark 1 normal open gl.png
+
+newmtl lambert1
+Ns 159.999985
+Ka 0.288300 0.288300 0.288300
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd lambert1_baseColor.jpeg
+
+newmtl material_0
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1000.000000
+d 1.000000
+illum 2
+map_Kd material_0_diffuse.png
+map_Ns material_0_specularGlossiness.png.001.png
+
+newmtl plants_atlas_6_mat
+Ka 1.000000 1.000000 1.000000
+Ks 0.070866 0.070866 0.070866
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd plants atlas 6.png
+map_Ns plants atlas 6 roughness.png
+map_d plants atlas 6.png
+map_Bump -bm 0.460000 plants atlas 6 normal.png
+
+newmtl rocks_01_mat
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd rocks_01_BaseColor.jpg
+map_Ns rocks_01_Roughness.jpg
+map_Bump -bm 1.000000 rocks_01_NormalGL.jpg
+
+newmtl rocks_01_mat.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd rocks_01_BaseColor.jpg
+map_Ns rocks_01_Roughness.jpg
+map_Bump -bm 1.000000 rocks_01_NormalGL.jpg
+
+newmtl rocks_01_mat.002
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd rocks_01_BaseColor.jpg
+map_Ns rocks_01_Roughness.jpg
+map_Bump -bm 1.000000 rocks_01_NormalGL.jpg
+
+newmtl rocks_01_mat.003
+Ka 1.000000 1.000000 1.000000
+Ks 0.100000 0.100000 0.100000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd rocks_01_BaseColor.jpg
+map_Ns rocks_01_Roughness.jpg
+map_Bump -bm 1.000000 rocks_01_NormalGL.jpg
+
+newmtl tree_02_mat
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd leaf_4_color.png
+map_Ns leaf_4_normal.jpg
+map_Bump -bm 1.000000 leaf_4_roughness.jpg
